@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+#form1{ width:400px;
+		padding:20px;
+		border:1px solid #000;
+		border-radius:0px 20px;
+		margin: 20px auto;
+}
+.centro { text-align:center; }
+.label{ display:inline-block;
+		width:100px;
+}
+table{ width:930px; margin:0px auto;}
+th,td{ width:150px;}
+.img { width:150px;}
